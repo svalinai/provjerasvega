@@ -1,2 +1,2 @@
 # provjerasvega
-ddawd
+https://github.com/svalinai/provjerasvega.git
